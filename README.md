@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Luísa</h1>
 <h3 align="center">A passionate Data Analyst from Portugal</h3>
-
-<h3 align="left">Introduction</h3>
+<img align="right" alt="Coding" width="550" src="https://miro.medium.com/v2/resize:fit:702/1*Ra02AqsQlC0KV229EvM98g.png">
 <p align="left">
 As seasoned Data Analyst at NTT DATA, I bring a results-driven approach to the forefront of complex analytical projects. Currently deployed on a project with EDP Comercial, I specialize in distilling intricate datasets into strategic insights. With a proven record of excellence, I am committed to delivering professional and impactful analytics that align with the highest standards of quality and precision.
 I am a hardworking individual who continually enhances my skills by actively pursuing online courses related to data analysis. My commitment to self-improvement is matched by my eagerness to contribute to a challenging work environment, where I can be a valuable asset to the organization. Simultaneously, I am on the lookout for opportunities that offer fresh learning experiences and knowledge acquisition, as I thrive on tackling new challenges. Eager to be a part of a team where innovation and growth go hand in hand.</p>
