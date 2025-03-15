@@ -2,8 +2,9 @@
 <h2 align="left">A passionate Data Analyst from Portugal</h2>
 <img align="right" alt="Coding" width="400" src="https://blkmarketmembership.com/wp-content/uploads/2022/06/Data-Analytics.jpeg">
 <p align="left">
-As seasoned Data Analyst at NTT DATA, I bring a results-driven approach to the forefront of complex analytical projects. Currently deployed on a project with EDP Comercial, I specialize in distilling intricate datasets into strategic insights. With a proven record of excellence, I am committed to delivering professional and impactful analytics that align with the highest standards of quality and precision.
-I am a hardworking individual who continually enhances my skills by actively pursuing online courses related to data analysis. My commitment to self-improvement is matched by my eagerness to contribute to a challenging work environment, where I can be a valuable asset to the organization. Simultaneously, I am on the lookout for opportunities that offer fresh learning experiences and knowledge acquisition, as I thrive on tackling new challenges. Eager to be a part of a team where innovation and growth go hand in hand.</p>
+Hey, I’m Luísa! Data analyst by day, gym enthusiast by night, and a full-time problem solver.
+At NTT DATA, I turn messy datasets into strategic insights—currently working with EDP to make data make sense. With a background in biomedical engineering and a newfound love for deep learning, I enjoy tackling complex challenges (both in code and in life).
+Outside of work, I enjoy watching up-and-coming stand-up comedians, reading books, and trying to cook something other than the chicken I eat every day. Always learning, always exploring, and always up for a new challenge!  </p>
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
