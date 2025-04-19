@@ -1,5 +1,5 @@
 <h1 align="left">Hi 👋, I'm Luísa</h1>
-<h2 align="left">Data analyst by day, gym enthusiast by night, and a full-time problem solver.</h2>
+<h2 align="left">Data analyst by day, gym enthusiast by night, and a full-time problem solver</h2>
 <p align="left">
 Born and raised on the beautiful Madeira Island, I’ve spent the past nine years in Lisbon, embracing its vibrant charm.
 I work at NTT as both an analyst and developer, where I talk with business units, understand their needs, and develop solutions that combine technical knowledge with innovation. With a background in biomedical engineering and a passion for deep learning (thanks to a recent bootcamp), I enjoy solving complex problems and building insightful solutions.
